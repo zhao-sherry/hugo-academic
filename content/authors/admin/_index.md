@@ -1,7 +1,7 @@
 ---
 title: Sherry Zhao
 role: Computer Science and Engineering Student
-avatar_filename: headshot.jpg
+avatar_filename: avatar.jpg
 bio: My professional interests include software development, web development,
   machine learning and artificial intelligence.
 interests:
