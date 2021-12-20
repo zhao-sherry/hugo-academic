@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: AUTHORS
+widget_id: Authors
 headless: true
 weight: 20
 title: Biography
