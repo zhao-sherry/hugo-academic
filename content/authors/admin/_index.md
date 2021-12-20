@@ -1,77 +1,40 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Sherry Zhao
+role: Computer Science and Engineering Student
+bio: My professional interests include software development, web development,
+  machine learning and artificial intelligence.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Software Development
+  - Web Development
+  - Machine Learning & Artificial Intelligence
+  - Computational Linguistics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zhao-sherry
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/sherry-zhao
+organizations:
+  - name: The Ohio State University
+    url: https://www.osu.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Pursuing a BSc in Computer Science and Engineering
+      institution: The Ohio State University
+      year: 2024
+    - course: Honors High School Diploma
+      institution: Wapakoneta Senior High School
+      year: 2020
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+I am a second-year student at The Ohio State University majoring in computer science within the College of Engineering. Aside from my major, I am also an [International Affairs Scholar](https://honors-scholars.osu.edu/scholars/programs/ia) and taking part in the [Second-year Transformational Experience Program](https://step.osu.edu/). Additionally, I am a member of the [Society of Asian Scientists and Engineers](http://org.osu.edu/sase/) and the Chinese American Student Association, as well as being an undergraduate research assistant.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Professionally, I am interested in the development of accessible software and data organization, through software development, web development, machine learning, artificial intelligence and more. Some of my personal interests include learning my heritage language, photography, and trying new foods!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
