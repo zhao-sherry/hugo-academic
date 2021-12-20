@@ -8,6 +8,8 @@ superuser: true
 # Role/position/tagline
 role: Computer Science and Engineering Student
 
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Ohio State University
