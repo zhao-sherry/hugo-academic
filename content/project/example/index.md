@@ -6,7 +6,7 @@ tags:
 date: "11-10-20"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "u.osu.edu/fe1181au20sec6843c"
+external_link: "https://u.osu.edu/fe1181au20sec6843c/"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
