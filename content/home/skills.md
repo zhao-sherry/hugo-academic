@@ -16,24 +16,35 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-
+  - description:
+    icon: java
+    icon_pack: fab
+    name: Java
+  - description:
+    icon: html5
+    icon_pack: fab
+    name: HTML
+  - description:
+    icon: css3-alt
+    icon_pack: fab
+    name: CSS
+  - description:
+    icon: github
+    icon_pack: fab
+    name: GitHub
+  - description:
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics
+  - description:
+    icon: camera-retro
+    icon_pack: fas
+    name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
