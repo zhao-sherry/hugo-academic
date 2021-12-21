@@ -16,28 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
-    icon: java
+  - icon: java
     icon_pack: fab
     name: Java
-  - description:
-    icon: html5
+  - icon: html5
     icon_pack: fab
     name: HTML
-  - description:
-    icon: css3-alt
+  - icon: css3-alt
     icon_pack: fab
     name: CSS
-  - description:
-    icon: github
+  - icon: github
     icon_pack: fab
     name: GitHub
-  - description:
-    icon: chart-line
+  - icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description:
-    icon: camera-retro
+  - icon: camera-retro
     icon_pack: fas
     name: Photography
 # Uncomment to use emoji icons.

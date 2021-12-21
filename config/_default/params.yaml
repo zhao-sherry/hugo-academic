@@ -22,12 +22,12 @@ twitter: ""
 
 email: zhao.3248@osu.edu
 contact_links:
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/zhao-sherry
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/sherry-zhao
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zhao-sherry
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/sherry-zhao
 
 # Site header
 
