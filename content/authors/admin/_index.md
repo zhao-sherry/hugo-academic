@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: Computer Science and Engineering Student
 
-avatar_filename: avatar.jpg
+avatar_filename: headshot.jpg
 
 # Organizations/Affiliations to show in About widget
 organizations:
