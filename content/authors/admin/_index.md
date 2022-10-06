@@ -38,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a third-year student at The Ohio State University majoring in computer science within the College of Engineering. Aside from my major, I am also an [International Affairs Scholar](https://honors-scholars.osu.edu/scholars/programs/ia) and taking part in the [Second-year Transformational Experience Program](https://step.osu.edu/)the outgoing funds treasurer for the [Society of Asian Scientists and Engineers](https://org.osu.edu/sase/) the logistics chair for the [Taiwanese American Student Association](https://org.osu.edu/tasa/), and an [undergraduate research assistant](https://openva.net/).
+I am a third-year student at The Ohio State University majoring in computer science within the College of Engineering. Aside from my major, I am also an [International Affairs Scholar](https://honors-scholars.osu.edu/scholars/programs/ia) the outgoing funds treasurer for the [Society of Asian Scientists and Engineers](https://org.osu.edu/sase/) the logistics chair for the [Taiwanese American Student Association](https://org.osu.edu/tasa/), and an [undergraduate research assistant](https://openva.net/).
 
 Professionally, I am interested in the development of accessible software and data organization, through software development, web development, machine learning, artificial intelligence and more. Some of my personal interests include learning my heritage language, photography, working out, and trying new foods!
 
